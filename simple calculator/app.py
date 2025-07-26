@@ -27,5 +27,5 @@ if choice in ('1', '2', '3', '4'):
         else:
             print("Error! Division by zero.")
 else:
-    print("Invalid choice. Please select from 1 to 4.")
+    print("Invalid option. Please select from 1 to 4.")
     
